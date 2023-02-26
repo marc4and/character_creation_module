@@ -94,5 +94,5 @@ def main() -> str:
     char_class: str = choice_char_class()
     return print(start_training(char_name, char_class))
 
-    
-    main()
+
+main()
